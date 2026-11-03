@@ -1,683 +1,120 @@
-# ML & Web Dev Practice Repository
+# 🏦 FinTrack – Smart Digital Banking & Loan Management System
 
+FinTrack is an enterprise-grade digital banking and loan management web application engineered with a strong foundation in **Database Management Systems (DBMS)** concepts. It demonstrates real-world financial architectures including **3NF relational database design**, **ACID-compliant fund transfers**, **automated fraud surveillance triggers**, and **role-based security**.
 
+---
 
-- Contribution #1 on 2025-09-23 09:42:32
-- Contribution #2 on 2025-09-23 12:10:05
-- Contribution #3 on 2025-09-23 12:38:14
-- Contribution #4 on 2025-09-23 14:31:44
-- Contribution #5 on 2025-09-23 17:04:16
-- Contribution #6 on 2025-09-23 22:13:21
-- Contribution #7 on 2025-09-24 12:40:50
-- Contribution #8 on 2025-09-24 16:27:13
-- Contribution #9 on 2025-09-24 17:50:20
-- Contribution #10 on 2025-09-26 14:25:50
-- Contribution #11 on 2025-09-26 20:54:56
-- Contribution #12 on 2025-09-29 09:23:45
-- Contribution #13 on 2025-09-29 10:22:50
-- Contribution #14 on 2025-09-29 17:13:34
-- Contribution #15 on 2025-09-30 09:27:11
-- Contribution #16 on 2025-10-01 15:57:41
-- Contribution #17 on 2025-10-01 17:54:56
-- Contribution #18 on 2025-10-01 19:30:10
-- Contribution #19 on 2025-10-01 20:46:52
-- Contribution #20 on 2025-10-02 09:05:04
-- Contribution #21 on 2025-10-02 09:36:22
-- Contribution #22 on 2025-10-02 17:53:52
-- Contribution #23 on 2025-10-02 18:44:56
-- Contribution #24 on 2025-10-02 21:33:43
-- Contribution #25 on 2025-10-06 18:28:56
-- Contribution #26 on 2025-10-06 20:11:59
-- Contribution #27 on 2025-10-06 22:12:47
-- Contribution #28 on 2025-10-07 14:21:24
-- Contribution #29 on 2025-10-09 11:16:29
-- Contribution #30 on 2025-10-09 14:43:52
-- Contribution #31 on 2025-10-09 15:05:17
-- Contribution #32 on 2025-10-09 17:03:12
-- Contribution #33 on 2025-10-10 12:06:17
-- Contribution #34 on 2025-10-10 20:56:11
-- Contribution #35 on 2025-10-13 20:12:35
-- Contribution #36 on 2025-10-13 22:17:30
-- Contribution #37 on 2025-10-13 22:21:15
-- Contribution #38 on 2025-10-14 11:18:22
-- Contribution #39 on 2025-10-15 10:09:21
-- Contribution #40 on 2025-10-15 10:23:01
-- Contribution #41 on 2025-10-15 12:09:42
-- Contribution #42 on 2025-10-15 12:33:04
-- Contribution #43 on 2025-10-15 17:55:42
-- Contribution #44 on 2025-10-15 20:03:47
-- Contribution #45 on 2025-10-16 15:19:43
-- Contribution #46 on 2025-10-16 17:34:35
-- Contribution #47 on 2025-10-16 18:13:08
-- Contribution #48 on 2025-10-16 18:42:40
-- Contribution #49 on 2025-10-17 12:29:19
-- Contribution #50 on 2025-10-17 22:02:15
-- Contribution #51 on 2025-10-19 14:35:45
-- Contribution #52 on 2025-10-19 17:42:03
-- Contribution #53 on 2025-10-20 09:00:26
-- Contribution #54 on 2025-10-20 19:59:53
-- Contribution #55 on 2025-10-21 17:47:51
-- Contribution #56 on 2025-10-21 20:03:02
-- Contribution #57 on 2025-10-21 21:55:17
-- Contribution #58 on 2025-10-22 19:51:28
-- Contribution #59 on 2025-10-23 10:16:00
-- Contribution #60 on 2025-10-23 12:22:13
-- Contribution #61 on 2025-10-23 17:45:26
-- Contribution #62 on 2025-10-24 11:11:46
-- Contribution #63 on 2025-10-24 19:50:42
-- Contribution #64 on 2025-10-24 21:12:41
-- Contribution #65 on 2025-10-28 09:21:57
-- Contribution #66 on 2025-10-28 10:37:33
-- Contribution #67 on 2025-10-28 11:07:07
-- Contribution #68 on 2025-10-28 18:57:08
-- Contribution #69 on 2025-10-28 19:42:30
-- Contribution #70 on 2025-10-29 10:18:43
-- Contribution #71 on 2025-10-29 11:44:03
-- Contribution #72 on 2025-10-29 14:25:48
-- Contribution #73 on 2025-10-30 11:50:54
-- Contribution #74 on 2025-10-30 14:15:10
-- Contribution #75 on 2025-10-30 20:21:44
-- Contribution #76 on 2025-10-30 20:35:24
-- Contribution #77 on 2025-10-30 21:48:45
-- Contribution #78 on 2025-10-30 21:52:24
-- Contribution #79 on 2025-11-02 11:38:10
-- Contribution #80 on 2025-11-02 12:12:26
-- Contribution #81 on 2025-11-03 14:48:01
-- Contribution #82 on 2025-11-03 15:49:02
-- Contribution #83 on 2025-11-03 22:58:12
-- Contribution #84 on 2025-11-04 11:16:37
-- Contribution #85 on 2025-11-04 20:46:41
-- Contribution #86 on 2025-11-04 22:57:24
-- Contribution #87 on 2025-11-05 09:29:42
-- Contribution #88 on 2025-11-05 14:05:11
-- Contribution #89 on 2025-11-05 19:59:16
-- Contribution #90 on 2025-11-05 20:01:23
-- Contribution #91 on 2025-11-06 09:22:03
-- Contribution #92 on 2025-11-06 10:58:46
-- Contribution #93 on 2025-11-06 11:26:44
-- Contribution #94 on 2025-11-06 11:31:25
-- Contribution #95 on 2025-11-06 12:00:24
-- Contribution #96 on 2025-11-06 20:50:47
-- Contribution #97 on 2025-11-07 20:38:18
-- Contribution #98 on 2025-11-08 22:10:33
-- Contribution #99 on 2025-11-10 09:33:06
-- Contribution #100 on 2025-11-11 14:29:40
-- Contribution #101 on 2025-11-11 15:39:18
-- Contribution #102 on 2025-11-13 22:28:47
-- Contribution #103 on 2025-11-18 10:35:50
-- Contribution #104 on 2025-11-18 12:55:48
-- Contribution #105 on 2025-11-18 14:52:22
-- Contribution #106 on 2025-11-18 16:10:48
-- Contribution #107 on 2025-11-18 21:34:32
-- Contribution #108 on 2025-11-18 22:26:47
-- Contribution #109 on 2025-11-19 15:47:53
-- Contribution #110 on 2025-11-20 11:35:46
-- Contribution #111 on 2025-11-20 21:10:33
-- Contribution #112 on 2025-11-21 11:03:35
-- Contribution #113 on 2025-11-21 18:36:46
-- Contribution #114 on 2025-11-21 21:05:12
-- Contribution #115 on 2025-11-24 11:08:11
-- Contribution #116 on 2025-11-24 11:22:51
-- Contribution #117 on 2025-11-24 11:31:27
-- Contribution #118 on 2025-11-24 17:50:03
-- Contribution #119 on 2025-11-25 14:14:59
-- Contribution #120 on 2025-11-25 15:02:09
-- Contribution #121 on 2025-11-25 20:00:00
-- Contribution #122 on 2025-11-26 12:20:09
-- Contribution #123 on 2025-11-26 12:40:55
-- Contribution #124 on 2025-11-27 12:36:19
-- Contribution #125 on 2025-11-27 14:18:33
-- Contribution #126 on 2025-11-27 16:50:10
-- Contribution #127 on 2025-11-27 21:24:20
-- Contribution #128 on 2025-11-28 16:06:33
-- Contribution #129 on 2025-11-30 14:13:28
-- Contribution #130 on 2025-12-01 10:05:26
-- Contribution #131 on 2025-12-01 16:56:49
-- Contribution #132 on 2025-12-01 20:51:55
-- Contribution #133 on 2025-12-05 11:13:50
-- Contribution #134 on 2025-12-05 14:50:00
-- Contribution #135 on 2025-12-05 18:55:43
-- Contribution #136 on 2025-12-05 19:05:43
-- Contribution #137 on 2025-12-08 21:09:14
-- Contribution #138 on 2025-12-08 21:33:30
-- Contribution #139 on 2025-12-08 22:55:41
-- Contribution #140 on 2025-12-09 17:48:57
-- Contribution #141 on 2025-12-09 20:42:15
-- Contribution #142 on 2025-12-10 09:44:40
-- Contribution #143 on 2025-12-10 15:44:58
-- Contribution #144 on 2025-12-10 16:42:28
-- Contribution #145 on 2025-12-11 15:22:36
-- Contribution #146 on 2025-12-12 22:52:29
-- Contribution #147 on 2025-12-15 11:33:32
-- Contribution #148 on 2025-12-16 11:39:26
-- Contribution #149 on 2025-12-16 21:09:22
-- Contribution #150 on 2025-12-16 21:39:01
-- Contribution #151 on 2025-12-17 11:26:42
-- Contribution #152 on 2025-12-17 12:27:03
-- Contribution #153 on 2025-12-17 18:33:50
-- Contribution #154 on 2025-12-17 19:21:47
-- Contribution #155 on 2025-12-19 11:04:43
-- Contribution #156 on 2025-12-19 14:05:19
-- Contribution #157 on 2025-12-19 15:01:46
-- Contribution #158 on 2025-12-19 18:17:09
-- Contribution #159 on 2025-12-19 22:21:50
-- Contribution #160 on 2025-12-22 10:29:21
-- Contribution #161 on 2025-12-22 22:06:25
-- Contribution #162 on 2025-12-23 14:35:30
-- Contribution #163 on 2025-12-23 19:06:16
-- Contribution #164 on 2025-12-23 21:26:04
-- Contribution #165 on 2025-12-23 22:46:04
-- Contribution #166 on 2025-12-24 17:10:07
-- Contribution #167 on 2025-12-26 11:05:48
-- Contribution #168 on 2025-12-26 11:55:18
-- Contribution #169 on 2025-12-26 12:43:41
-- Contribution #170 on 2025-12-26 12:47:24
-- Contribution #171 on 2025-12-26 15:55:43
-- Contribution #172 on 2025-12-26 17:04:56
-- Contribution #173 on 2025-12-29 09:42:10
-- Contribution #174 on 2025-12-29 15:38:46
-- Contribution #175 on 2025-12-29 16:42:33
-- Contribution #176 on 2025-12-29 20:03:25
-- Contribution #177 on 2025-12-29 21:53:59
-- Contribution #178 on 2025-12-31 10:46:24
-- Contribution #179 on 2025-12-31 11:27:11
-- Contribution #180 on 2026-01-01 10:48:06
-- Contribution #181 on 2026-01-01 11:34:41
-- Contribution #182 on 2026-01-01 17:42:42
-- Contribution #183 on 2026-01-01 18:01:26
-- Contribution #184 on 2026-01-01 20:54:10
-- Contribution #185 on 2026-01-01 22:32:55
-- Contribution #186 on 2026-01-02 10:42:28
-- Contribution #187 on 2026-01-02 21:07:11
-- Contribution #188 on 2026-01-05 10:07:03
-- Contribution #189 on 2026-01-05 11:19:13
-- Contribution #190 on 2026-01-05 15:15:30
-- Contribution #191 on 2026-01-06 17:07:52
-- Contribution #192 on 2026-01-06 17:54:35
-- Contribution #193 on 2026-01-06 21:54:23
-- Contribution #194 on 2026-01-07 11:03:38
-- Contribution #195 on 2026-01-07 22:28:55
-- Contribution #196 on 2026-01-09 09:07:45
-- Contribution #197 on 2026-01-11 14:40:03
-- Contribution #198 on 2026-01-11 20:51:49
-- Contribution #199 on 2026-01-13 10:49:31
-- Contribution #200 on 2026-01-13 14:49:51
-- Contribution #201 on 2026-01-13 17:27:41
-- Contribution #202 on 2026-01-14 17:36:38
-- Contribution #203 on 2026-01-14 21:15:20
-- Contribution #204 on 2026-01-15 16:47:16
-- Contribution #205 on 2026-01-15 20:02:35
-- Contribution #206 on 2026-01-16 11:28:30
-- Contribution #207 on 2026-01-18 10:51:29
-- Contribution #208 on 2026-01-18 14:22:17
-- Contribution #209 on 2026-01-19 12:38:43
-- Contribution #210 on 2026-01-19 15:59:01
-- Contribution #211 on 2026-01-20 10:26:48
-- Contribution #212 on 2026-01-21 09:53:44
-- Contribution #213 on 2026-01-21 11:41:51
-- Contribution #214 on 2026-01-21 15:16:15
-- Contribution #215 on 2026-01-21 22:33:02
-- Contribution #216 on 2026-01-22 14:59:54
-- Contribution #217 on 2026-01-26 10:51:18
-- Contribution #218 on 2026-01-26 18:04:35
-- Contribution #219 on 2026-01-26 18:46:00
-- Contribution #220 on 2026-01-26 21:08:36
-- Contribution #221 on 2026-01-28 15:16:49
-- Contribution #222 on 2026-01-29 10:14:31
-- Contribution #223 on 2026-01-29 12:56:17
-- Contribution #224 on 2026-01-29 20:26:09
-- Contribution #225 on 2026-01-29 22:29:59
-- Contribution #226 on 2026-01-30 09:17:27
-- Contribution #227 on 2026-01-30 12:56:23
-- Contribution #228 on 2026-01-30 16:32:29
-- Contribution #229 on 2026-01-30 17:43:07
-- Contribution #230 on 2026-01-30 21:11:26
-- Contribution #231 on 2026-01-30 22:55:06
-- Contribution #232 on 2026-02-01 17:45:11
-- Contribution #233 on 2026-02-01 21:38:37
-- Contribution #234 on 2026-02-02 14:09:39
-- Contribution #235 on 2026-02-03 14:19:56
-- Contribution #236 on 2026-02-03 18:02:30
-- Contribution #237 on 2026-02-03 18:54:07
-- Contribution #238 on 2026-02-03 21:48:30
-- Contribution #239 on 2026-02-05 14:20:28
-- Contribution #240 on 2026-02-05 14:57:54
-- Contribution #241 on 2026-02-05 22:53:29
-- Contribution #242 on 2026-02-06 09:33:23
-- Contribution #243 on 2026-02-06 14:23:10
-- Contribution #244 on 2026-02-06 18:36:24
-- Contribution #245 on 2026-02-06 20:09:27
-- Contribution #246 on 2026-02-09 10:00:04
-- Contribution #247 on 2026-02-09 10:14:30
-- Contribution #248 on 2026-02-09 10:59:45
-- Contribution #249 on 2026-02-09 12:20:50
-- Contribution #250 on 2026-02-12 17:16:56
-- Contribution #251 on 2026-02-12 19:16:56
-- Contribution #252 on 2026-02-13 09:08:36
-- Contribution #253 on 2026-02-13 18:49:02
-- Contribution #254 on 2026-02-15 16:30:25
-- Contribution #255 on 2026-02-16 11:07:44
-- Contribution #256 on 2026-02-16 11:34:19
-- Contribution #257 on 2026-02-16 18:35:12
-- Contribution #258 on 2026-02-16 21:13:39
-- Contribution #259 on 2026-02-16 22:18:26
-- Contribution #260 on 2026-02-17 12:39:31
-- Contribution #261 on 2026-02-17 19:40:09
-- Contribution #262 on 2026-02-18 11:41:46
-- Contribution #263 on 2026-02-18 12:48:34
-- Contribution #264 on 2026-02-18 14:22:17
-- Contribution #265 on 2026-02-18 14:32:38
-- Contribution #266 on 2026-02-18 20:31:33
-- Contribution #267 on 2026-02-18 22:19:35
-- Contribution #268 on 2026-02-19 10:00:58
-- Contribution #269 on 2026-02-19 15:52:51
-- Contribution #270 on 2026-02-19 20:04:28
-- Contribution #271 on 2026-02-19 22:40:28
-- Contribution #272 on 2026-02-20 09:18:14
-- Contribution #273 on 2026-02-20 09:39:21
-- Contribution #274 on 2026-02-20 12:13:51
-- Contribution #275 on 2026-02-20 12:32:37
-- Contribution #276 on 2026-02-20 21:36:40
-- Contribution #277 on 2026-02-20 22:31:38
-- Contribution #278 on 2026-02-22 17:46:50
-- Contribution #279 on 2026-02-22 22:53:12
-- Contribution #280 on 2026-02-23 09:23:02
-- Contribution #281 on 2026-02-24 10:09:23
-- Contribution #282 on 2026-02-25 10:30:01
-- Contribution #283 on 2026-02-25 14:22:47
-- Contribution #284 on 2026-02-25 16:27:00
-- Contribution #285 on 2026-02-25 18:46:11
-- Contribution #286 on 2026-02-25 20:59:40
-- Contribution #287 on 2026-02-26 10:06:36
-- Contribution #288 on 2026-02-26 17:13:53
-- Contribution #289 on 2026-02-26 17:47:47
-- Contribution #290 on 2026-02-26 17:58:44
-- Contribution #291 on 2026-03-02 10:28:24
-- Contribution #292 on 2026-03-02 14:51:38
-- Contribution #293 on 2026-03-03 09:46:05
-- Contribution #294 on 2026-03-03 11:54:26
-- Contribution #295 on 2026-03-03 20:48:25
-- Contribution #296 on 2026-03-03 21:46:02
-- Contribution #297 on 2026-03-03 21:46:49
-- Contribution #298 on 2026-03-04 21:53:07
-- Contribution #299 on 2026-03-05 10:21:35
-- Contribution #300 on 2026-03-06 11:05:15
-- Contribution #301 on 2026-03-06 22:54:02
-- Contribution #302 on 2026-03-10 14:22:58
-- Contribution #303 on 2026-03-10 18:40:50
-- Contribution #304 on 2026-03-10 21:15:18
-- Contribution #305 on 2026-03-11 20:06:39
-- Contribution #306 on 2026-03-12 10:35:47
-- Contribution #307 on 2026-03-12 12:08:12
-- Contribution #308 on 2026-03-13 12:40:24
-- Contribution #309 on 2026-03-13 20:43:16
-- Contribution #310 on 2026-03-13 20:52:05
-- Contribution #311 on 2026-03-15 14:58:38
-- Contribution #312 on 2026-03-15 16:44:46
-- Contribution #313 on 2026-03-16 09:28:49
-- Contribution #314 on 2026-03-16 10:27:50
-- Contribution #315 on 2026-03-17 12:24:34
-- Contribution #316 on 2026-03-17 15:18:16
-- Contribution #317 on 2026-03-17 15:52:52
-- Contribution #318 on 2026-03-17 18:38:14
-- Contribution #319 on 2026-03-17 22:07:20
-- Contribution #320 on 2026-03-18 09:56:19
-- Contribution #321 on 2026-03-18 12:20:20
-- Contribution #322 on 2026-03-18 15:42:50
-- Contribution #323 on 2026-03-18 16:42:52
-- Contribution #324 on 2026-03-18 20:58:35
-- Contribution #325 on 2026-03-19 10:20:25
-- Contribution #326 on 2026-03-19 18:25:18
-- Contribution #327 on 2026-03-19 18:39:19
-- Contribution #328 on 2026-03-23 09:03:23
-- Contribution #329 on 2026-03-23 10:43:42
-- Contribution #330 on 2026-03-23 11:33:46
-- Contribution #331 on 2026-03-23 15:15:23
-- Contribution #332 on 2026-03-23 22:01:11
-- Contribution #333 on 2026-03-24 22:06:44
-- Contribution #334 on 2026-03-26 12:53:33
-- Contribution #335 on 2026-03-27 14:57:51
-- Contribution #336 on 2026-03-27 18:21:25
-- Contribution #337 on 2026-03-27 21:45:04
-- Contribution #338 on 2026-03-27 22:03:08
-- Contribution #339 on 2026-03-31 10:44:21
-- Contribution #340 on 2026-03-31 11:00:51
-- Contribution #341 on 2026-03-31 17:32:32
-- Contribution #342 on 2026-03-31 18:38:46
-- Contribution #343 on 2026-04-02 15:48:17
-- Contribution #344 on 2026-04-02 17:50:53
-- Contribution #345 on 2026-04-02 18:22:46
-- Contribution #346 on 2026-04-02 18:46:27
-- Contribution #347 on 2026-04-02 21:49:58
-- Contribution #348 on 2026-04-02 22:53:50
-- Contribution #349 on 2026-04-03 11:20:33
-- Contribution #350 on 2026-04-03 12:44:49
-- Contribution #351 on 2026-04-03 16:30:02
-- Contribution #352 on 2026-04-03 17:55:15
-- Contribution #353 on 2026-04-03 19:23:42
-- Contribution #354 on 2026-04-06 11:01:35
-- Contribution #355 on 2026-04-06 14:44:49
-- Contribution #356 on 2026-04-07 10:47:17
-- Contribution #357 on 2026-04-07 11:07:12
-- Contribution #358 on 2026-04-07 17:15:04
-- Contribution #359 on 2026-04-09 15:02:23
-- Contribution #360 on 2026-04-09 17:32:33
-- Contribution #361 on 2026-04-09 17:45:42
-- Contribution #362 on 2026-04-10 11:46:06
-- Contribution #363 on 2026-04-10 15:47:10
-- Contribution #364 on 2026-04-10 16:01:03
-- Contribution #365 on 2026-04-10 17:17:43
-- Contribution #366 on 2026-04-10 19:28:46
-- Contribution #367 on 2026-04-14 12:58:34
-- Contribution #368 on 2026-04-14 16:21:00
-- Contribution #369 on 2026-04-14 17:48:32
-- Contribution #370 on 2026-04-14 20:03:53
-- Contribution #371 on 2026-04-15 16:23:20
-- Contribution #372 on 2026-04-16 14:21:59
-- Contribution #373 on 2026-04-16 18:38:58
-- Contribution #374 on 2026-04-17 15:03:27
-- Contribution #375 on 2026-04-17 19:49:57
-- Contribution #376 on 2026-04-17 21:07:44
-- Contribution #377 on 2026-04-20 10:05:24
-- Contribution #378 on 2026-04-20 11:58:18
-- Contribution #379 on 2026-04-20 15:02:49
-- Contribution #380 on 2026-04-20 16:42:30
-- Contribution #381 on 2026-04-20 22:46:29
-- Contribution #382 on 2026-04-21 10:48:02
-- Contribution #383 on 2026-04-21 10:48:50
-- Contribution #384 on 2026-04-21 18:09:40
-- Contribution #385 on 2026-04-21 19:35:26
-- Contribution #386 on 2026-04-22 12:31:17
-- Contribution #387 on 2026-04-22 14:30:54
-- Contribution #388 on 2026-04-22 17:08:15
-- Contribution #389 on 2026-04-22 19:02:36
-- Contribution #390 on 2026-04-23 10:35:51
-- Contribution #391 on 2026-04-23 18:46:55
-- Contribution #392 on 2026-04-28 09:50:51
-- Contribution #393 on 2026-04-28 11:43:01
-- Contribution #394 on 2026-04-28 14:01:24
-- Contribution #395 on 2026-04-28 14:39:32
-- Contribution #396 on 2026-04-28 16:39:29
-- Contribution #397 on 2026-04-28 21:55:24
-- Contribution #398 on 2026-04-29 10:49:45
-- Contribution #399 on 2026-04-29 12:18:15
-- Contribution #400 on 2026-04-29 14:29:21
-- Contribution #401 on 2026-04-29 15:28:27
-- Contribution #402 on 2026-04-29 17:25:46
-- Contribution #403 on 2026-04-30 10:29:39
-- Contribution #404 on 2026-04-30 10:30:21
-- Contribution #405 on 2026-04-30 14:26:17
-- Contribution #406 on 2026-04-30 15:14:58
-- Contribution #407 on 2026-04-30 18:11:55
-- Contribution #408 on 2026-04-30 21:25:49
-- Contribution #409 on 2026-05-01 15:20:07
-- Contribution #410 on 2026-05-01 16:48:18
-- Contribution #411 on 2026-05-03 12:20:44
-- Contribution #412 on 2026-05-06 09:19:15
-- Contribution #413 on 2026-05-06 11:56:26
-- Contribution #414 on 2026-05-06 12:18:50
-- Contribution #415 on 2026-05-06 18:20:18
-- Contribution #416 on 2026-05-07 14:16:37
-- Contribution #417 on 2026-05-07 19:36:20
-- Contribution #418 on 2026-05-07 21:23:36
-- Contribution #419 on 2026-05-08 10:59:40
-- Contribution #420 on 2026-05-08 12:39:37
-- Contribution #421 on 2026-05-08 16:48:06
-- Contribution #422 on 2026-05-09 17:33:36
-- Contribution #423 on 2026-05-11 10:15:36
-- Contribution #424 on 2026-05-11 11:27:43
-- Contribution #425 on 2026-05-12 15:07:32
-- Contribution #426 on 2026-05-12 20:47:38
-- Contribution #427 on 2026-05-13 15:48:37
-- Contribution #428 on 2026-05-13 20:50:52
-- Contribution #429 on 2026-05-13 21:33:48
-- Contribution #430 on 2026-05-14 12:29:30
-- Contribution #431 on 2026-05-14 12:32:53
-- Contribution #432 on 2026-05-14 14:07:24
-- Contribution #433 on 2026-05-14 15:11:25
-- Contribution #434 on 2026-05-14 20:48:21
-- Contribution #435 on 2026-05-14 21:23:27
-- Contribution #436 on 2026-05-15 17:54:12
-- Contribution #437 on 2026-05-16 19:05:20
-- Contribution #438 on 2026-05-16 20:36:02
-- Contribution #439 on 2026-05-18 21:50:59
-- Contribution #440 on 2026-05-19 11:26:13
-- Contribution #441 on 2026-05-19 16:40:03
-- Contribution #442 on 2026-05-20 14:56:31
-- Contribution #443 on 2026-05-21 17:01:41
-- Contribution #444 on 2026-05-21 19:37:28
-- Contribution #445 on 2026-05-22 10:07:47
-- Contribution #446 on 2026-05-22 10:39:46
-- Contribution #447 on 2026-05-22 11:11:39
-- Contribution #448 on 2026-05-22 11:44:04
-- Contribution #449 on 2026-05-22 17:33:13
-- Contribution #450 on 2026-05-22 20:19:27
-- Contribution #451 on 2026-05-26 12:26:00
-- Contribution #452 on 2026-05-26 14:08:29
-- Contribution #453 on 2026-05-26 15:47:37
-- Contribution #454 on 2026-05-27 16:18:11
-- Contribution #455 on 2026-05-27 16:25:18
-- Contribution #456 on 2026-05-27 17:09:59
-- Contribution #457 on 2026-05-29 12:46:21
-- Contribution #458 on 2026-05-29 18:56:02
-- Contribution #459 on 2026-05-29 19:23:41
-- Contribution #460 on 2026-05-29 20:58:34
-- Contribution #461 on 2026-06-01 10:30:01
-- Contribution #462 on 2026-06-01 12:40:02
-- Contribution #463 on 2026-06-02 12:18:27
-- Contribution #464 on 2026-06-02 15:41:13
-- Contribution #465 on 2026-06-02 21:14:28
-- Contribution #466 on 2026-06-02 22:13:28
-- Contribution #467 on 2026-06-04 16:09:51
-- Contribution #468 on 2026-06-04 16:28:10
-- Contribution #469 on 2026-06-08 10:25:55
-- Contribution #470 on 2026-06-08 12:02:09
-- Contribution #471 on 2026-06-11 15:01:33
-- Contribution #472 on 2026-06-11 16:05:25
-- Contribution #473 on 2026-06-11 17:30:45
-- Contribution #474 on 2026-06-12 16:44:35
-- Contribution #475 on 2026-06-14 09:01:48
-- Contribution #476 on 2026-06-15 12:06:08
-- Contribution #477 on 2026-06-15 14:57:29
-- Contribution #478 on 2026-06-15 17:07:08
-- Contribution #479 on 2026-06-15 21:41:14
-- Contribution #480 on 2026-06-16 11:44:43
-- Contribution #481 on 2026-06-16 12:39:46
-- Contribution #482 on 2026-06-16 16:20:34
-- Contribution #483 on 2026-06-16 17:22:49
-- Contribution #484 on 2026-06-17 10:00:13
-- Contribution #485 on 2026-06-17 11:43:14
-- Contribution #486 on 2026-06-17 16:22:54
-- Contribution #487 on 2026-06-17 21:27:42
-- Contribution #488 on 2026-06-18 10:59:00
-- Contribution #489 on 2026-06-18 10:59:50
-- Contribution #490 on 2026-06-19 10:08:56
-- Contribution #491 on 2026-06-19 10:49:27
-- Contribution #492 on 2026-06-19 15:58:36
-- Contribution #493 on 2026-06-19 22:09:54
-- Contribution #494 on 2026-06-21 21:00:34
-- Contribution #495 on 2026-06-21 21:40:25
-- Contribution #496 on 2026-06-22 11:51:08
-- Contribution #497 on 2026-06-22 16:17:36
-- Contribution #498 on 2026-06-22 16:43:40
-- Contribution #499 on 2026-06-23 11:28:51
-- Contribution #500 on 2026-06-23 14:24:02
-- Contribution #501 on 2026-06-23 15:51:40
-- Contribution #502 on 2026-06-23 16:54:27
-- Contribution #503 on 2026-06-23 17:27:43
-- Contribution #504 on 2026-06-23 19:41:51
-- Contribution #505 on 2026-06-24 09:17:38
-- Contribution #506 on 2026-06-26 15:18:56
-- Contribution #507 on 2026-06-27 21:45:52
-- Contribution #508 on 2026-06-28 21:06:42
-- Contribution #509 on 2026-06-29 12:58:51
-- Contribution #510 on 2026-06-29 16:38:24
-- Contribution #511 on 2026-06-29 22:05:21
-- Contribution #512 on 2026-07-01 10:34:37
-- Contribution #513 on 2026-07-01 11:53:38
-- Contribution #514 on 2026-07-01 14:54:38
-- Contribution #515 on 2026-07-01 19:12:14
-- Contribution #516 on 2026-07-02 10:15:42
-- Contribution #517 on 2026-07-06 09:28:22
-- Contribution #518 on 2026-07-06 11:05:41
-- Contribution #519 on 2026-07-06 17:13:52
-- Contribution #520 on 2026-07-07 10:05:57
-- Contribution #521 on 2026-07-07 15:23:52
-- Contribution #522 on 2026-07-07 18:44:11
-- Contribution #523 on 2026-07-08 12:16:54
-- Contribution #524 on 2026-07-08 14:00:15
-- Contribution #525 on 2026-07-09 10:36:59
-- Contribution #526 on 2026-07-09 17:59:03
-- Contribution #527 on 2026-07-09 20:13:55
-- Contribution #528 on 2026-07-10 09:20:04
-- Contribution #529 on 2026-07-10 11:41:55
-- Contribution #530 on 2026-07-10 11:49:15
-- Contribution #531 on 2026-07-10 19:47:15
-- Contribution #532 on 2026-07-13 16:25:27
-- Contribution #533 on 2026-07-13 17:48:03
-- Contribution #534 on 2026-07-13 21:23:50
-- Contribution #535 on 2026-07-13 22:52:01
-- Contribution #536 on 2026-07-15 16:40:26
-- Contribution #537 on 2026-07-16 09:27:21
-- Contribution #538 on 2026-07-16 09:45:44
-- Contribution #539 on 2026-07-16 14:09:13
-- Contribution #540 on 2026-07-16 15:00:02
-- Contribution #541 on 2026-07-17 09:43:50
-- Contribution #542 on 2026-07-17 12:38:23
-- Contribution #543 on 2026-07-17 21:53:23
-- Contribution #544 on 2026-07-17 22:31:08
-- Contribution #545 on 2026-07-20 09:09:35
-- Contribution #546 on 2026-07-20 14:28:18
-- Contribution #547 on 2026-07-20 14:43:50
-- Contribution #548 on 2026-07-20 22:07:56
-- Contribution #549 on 2026-07-22 14:14:24
-- Contribution #550 on 2026-07-22 15:17:36
-- Contribution #551 on 2026-07-22 17:24:59
-- Contribution #552 on 2026-07-22 22:35:02
-- Contribution #553 on 2026-07-23 11:46:57
-- Contribution #554 on 2026-07-23 18:50:20
-- Contribution #555 on 2026-07-23 19:55:11
-- Contribution #556 on 2026-07-24 19:19:17
-- Contribution #557 on 2026-07-24 21:53:08
-- Contribution #558 on 2026-07-27 16:21:14
-- Contribution #559 on 2026-07-27 17:28:16
-- Contribution #560 on 2026-07-27 17:29:54
-- Contribution #561 on 2026-07-27 18:58:00
-- Contribution #562 on 2026-07-27 21:34:02
-- Contribution #563 on 2026-07-27 21:53:19
-- Contribution #564 on 2026-07-28 15:21:01
-- Contribution #565 on 2026-07-29 21:50:02
-- Contribution #566 on 2026-07-30 16:19:55
-- Contribution #567 on 2026-07-30 22:34:25
-- Contribution #568 on 2026-07-31 16:01:50
-- Contribution #569 on 2026-07-31 19:24:04
-- Contribution #570 on 2026-08-01 09:36:46
-- Contribution #571 on 2026-08-01 17:17:03
-- Contribution #572 on 2026-08-03 11:43:06
-- Contribution #573 on 2026-08-03 16:28:42
-- Contribution #574 on 2026-08-03 17:50:26
-- Contribution #575 on 2026-08-03 18:16:36
-- Contribution #576 on 2026-08-03 20:42:51
-- Contribution #577 on 2026-08-04 15:34:58
-- Contribution #578 on 2026-08-04 15:36:10
-- Contribution #579 on 2026-08-05 12:31:35
-- Contribution #580 on 2026-08-05 16:34:20
-- Contribution #581 on 2026-08-05 16:37:48
-- Contribution #582 on 2026-08-05 21:54:18
-- Contribution #583 on 2026-08-06 10:30:07
-- Contribution #584 on 2026-08-07 10:46:53
-- Contribution #585 on 2026-08-07 12:03:44
-- Contribution #586 on 2026-08-07 15:58:02
-- Contribution #587 on 2026-08-07 20:13:21
-- Contribution #588 on 2026-08-07 21:10:14
-- Contribution #589 on 2026-08-07 21:25:26
-- Contribution #590 on 2026-08-10 12:31:52
-- Contribution #591 on 2026-08-10 12:33:00
-- Contribution #592 on 2026-08-11 17:26:23
-- Contribution #593 on 2026-08-11 18:27:44
-- Contribution #594 on 2026-08-11 20:22:40
-- Contribution #595 on 2026-08-12 10:30:57
-- Contribution #596 on 2026-08-12 16:10:19
-- Contribution #597 on 2026-08-12 17:49:45
-- Contribution #598 on 2026-08-12 22:38:27
-- Contribution #599 on 2026-08-14 09:45:20
-- Contribution #600 on 2026-08-14 12:09:02
-- Contribution #601 on 2026-08-14 12:15:53
-- Contribution #602 on 2026-08-14 21:17:58
-- Contribution #603 on 2026-08-14 22:46:54
-- Contribution #604 on 2026-08-17 10:16:53
-- Contribution #605 on 2026-08-17 12:10:28
-- Contribution #606 on 2026-08-17 12:43:01
-- Contribution #607 on 2026-08-18 09:50:22
-- Contribution #608 on 2026-08-19 18:49:38
-- Contribution #609 on 2026-08-20 19:17:21
-- Contribution #610 on 2026-08-20 19:55:29
-- Contribution #611 on 2026-08-21 19:51:37
-- Contribution #612 on 2026-08-24 11:14:34
-- Contribution #613 on 2026-08-24 12:14:51
-- Contribution #614 on 2026-08-24 14:50:26
-- Contribution #615 on 2026-08-24 20:05:36
-- Contribution #616 on 2026-08-24 20:37:37
-- Contribution #617 on 2026-08-24 21:07:07
-- Contribution #618 on 2026-08-25 22:04:03
-- Contribution #619 on 2026-08-26 11:44:57
-- Contribution #620 on 2026-08-26 16:02:16
-- Contribution #621 on 2026-08-26 18:06:21
-- Contribution #622 on 2026-08-26 19:56:24
-- Contribution #623 on 2026-08-26 21:15:20
-- Contribution #624 on 2026-08-26 21:38:46
-- Contribution #625 on 2026-08-27 15:05:01
-- Contribution #626 on 2026-08-27 17:03:55
-- Contribution #627 on 2026-08-27 17:26:15
-- Contribution #628 on 2026-08-27 17:45:26
-- Contribution #629 on 2026-08-27 18:37:40
-- Contribution #630 on 2026-08-28 14:24:07
-- Contribution #631 on 2026-08-28 16:11:57
-- Contribution #632 on 2026-08-28 22:35:39
-- Contribution #633 on 2026-08-31 10:07:53
-- Contribution #634 on 2026-09-01 10:59:01
-- Contribution #635 on 2026-09-01 21:55:59
-- Contribution #636 on 2026-09-01 22:54:47
-- Contribution #637 on 2026-09-02 09:06:11
-- Contribution #638 on 2026-09-02 12:32:24
-- Contribution #639 on 2026-09-02 20:48:40
-- Contribution #640 on 2026-09-03 10:56:15
-- Contribution #641 on 2026-09-03 18:02:51
-- Contribution #642 on 2026-09-03 22:11:47
-- Contribution #643 on 2026-09-04 14:08:19
-- Contribution #644 on 2026-09-04 15:16:17
-- Contribution #645 on 2026-09-04 17:02:18
-- Contribution #646 on 2026-09-04 18:54:27
-- Contribution #647 on 2026-09-04 19:21:12
-- Contribution #648 on 2026-09-04 21:47:18
-- Contribution #649 on 2026-09-06 20:40:54
-- Contribution #650 on 2026-09-07 12:15:27
-- Contribution #651 on 2026-09-07 15:52:51
-- Contribution #652 on 2026-09-09 11:26:38
-- Contribution #653 on 2026-09-11 14:01:03
-- Contribution #654 on 2026-09-11 17:51:41
-- Contribution #655 on 2026-09-11 21:06:59
-- Contribution #656 on 2026-09-14 09:34:02
-- Contribution #657 on 2026-09-14 09:38:46
-- Contribution #658 on 2026-09-14 10:16:09
-- Contribution #659 on 2026-09-14 14:43:49
-- Contribution #660 on 2026-09-14 16:20:39
-- Contribution #661 on 2026-09-14 20:36:14
-- Contribution #662 on 2026-09-15 11:42:24
-- Contribution #663 on 2026-09-15 14:01:47
-- Contribution #664 on 2026-09-15 18:25:21
-- Contribution #665 on 2026-09-15 20:48:28
-- Contribution #666 on 2026-09-16 09:58:13
-- Contribution #667 on 2026-09-16 10:00:16
-- Contribution #668 on 2026-09-16 17:44:30
-- Contribution #669 on 2026-09-16 22:16:15
-- Contribution #670 on 2026-09-17 12:40:44
-- Contribution #671 on 2026-09-17 16:42:21
-- Contribution #672 on 2026-09-17 18:13:26
-- Contribution #673 on 2026-09-17 19:48:02
-- Contribution #674 on 2026-09-17 21:31:06
-- Contribution #675 on 2026-09-18 14:06:18
-- Contribution #676 on 2026-09-21 12:16:23
-- Contribution #677 on 2026-09-21 19:49:08
-- Contribution #678 on 2026-09-21 20:21:59
-- Contribution #679 on 2026-09-21 22:14:27
+## 🌟 Key Highlights
+
+- **Dual Persona Banking**:
+  - **Customer Portal**: Account balance dashboard, instant peer-to-peer transfers, full transaction ledger, and interactive loan eligibility calculator.
+  - **Bank Admin Portal**: Executive banking metrics, customer account freeze/unfreeze controls, loan application review & disbursement queue, automated fraud monitor, and security audit logs.
+- **Relational DBMS & MySQL Focus**:
+  - 6 Normalized tables (`users`, `accounts`, `transactions`, `loans`, `audit_logs`, `fraud_alerts`).
+  - Row-Level Locks (`SELECT ... FOR UPDATE`) and ACID transactions (`BEGIN`, `COMMIT`, `ROLLBACK`).
+  - Automated Database Triggers for high-value fraud detection and audit logging.
+  - Resilience fallback: Can connect directly to local MySQL (`fintrack_db`), or run out-of-the-box with persistent demo simulation if MySQL is offline.
+
+---
+
+## 🛠️ Technology Stack
+
+| Layer | Technology |
+|---|---|
+| **Frontend** | React 18, Vite 5, Tailwind CSS v4, Lucide React, Axios, React Router DOM 6 |
+| **Backend** | Node.js, Express.js (ES Modules) |
+| **Database** | MySQL (`fintrack_db`) with `mysql2/promise` connection pool |
+| **Security** | JWT Authentication, Bcrypt Password Hashing, RBAC |
+
+---
+
+## 📂 Project Architecture
+
+```
+FinTrack/
+├── backend/
+│   ├── config/
+│   │   └── db.js                 # MySQL Pool & Resilient Fallback
+│   ├── controllers/
+│   │   ├── authController.js     # Register, Login, JWT Issuance
+│   │   ├── accountController.js  # Account Details, Deposit, Lookup
+│   │   ├── transactionController.js # ACID Fund Transfer Engine
+│   │   ├── loanController.js     # Eligibility Calculation & Approvals
+│   │   ├── fraudController.js    # Suspicious Activity Surveillance
+│   │   ├── auditController.js    # Security & Activity Audit Trail
+│   │   └── adminController.js    # Banking Metrics & Account Controls
+│   ├── database/
+│   │   ├── schema.sql            # MySQL DDL (6 Tables, Views, Triggers)
+│   │   ├── seed.sql              # Mock banking data
+│   │   ├── initDb.js             # Automated DB Setup Script
+│   │   └── mockFallback.js       # In-memory simulator for offline DB
+│   ├── middleware/
+│   │   ├── authMiddleware.js     # JWT & Admin Verification
+│   │   └── errorMiddleware.js    # Centralized Error Handlers
+│   ├── routes/                   # Modular API Endpoints
+│   ├── .env                      # Environment Variables
+│   ├── package.json
+│   └── server.js                 # Express Application Entrypoint
+│
+└── frontend/
+    ├── src/
+    │   ├── components/           # Navbar, Sidebar, ProtectedRoute, ReceiptModal
+    │   ├── context/              # AuthContext (with 1-Click Persona Switcher)
+    │   ├── pages/                # Customer Dashboard, Transfer, History, Loans
+    │   │   └── admin/            # Executive Overview, Loans, Fraud, Audit
+    │   ├── services/             # Axios instance & token interceptors
+    │   ├── App.jsx               # Client Routing & Navigation
+    │   ├── main.jsx
+    │   └── index.css             # Tailwind v4 Styles
+    ├── index.html
+    ├── vite.config.js
+    └── package.json
+```
+
+---
+
+## ⚡ Quick Start Guide
+
+### 1. Database Setup (MySQL)
+Make sure your MySQL server is running (e.g. via MySQL Workbench, XAMPP, or command-line), then initialize `fintrack_db`:
+
+```powershell
+# From the project root:
+cd FinTrack/backend
+npm run db:init
+```
+
+> **Note**: If MySQL is not running on your computer, FinTrack's built-in **Resilient Engine** will automatically start in simulation mode so you can immediately test all features without interruption!
+
+### 2. Start Backend Server
+```powershell
+cd FinTrack/backend
+npm run dev
+# Server will run at: http://localhost:5000
+```
+
+### 3. Start Frontend App
+```powershell
+cd FinTrack/frontend
+npm run dev
+# Frontend will run at: http://localhost:3000
+```
+
+---
+
+## 🔑 Demo Login Credentials
+
+The application includes instant **1-Click Demo Login** buttons on the sign-in screen and the top navbar:
+
+| Role | Email | Password | Features Available |
+|---|---|---|---|
+| **Customer (John Doe)** | `john@example.com` | `Password@123` | Balance: $14,250.00, Account `FT100101`, Transfers, Loans |
+| **Customer (Sarah Connor)** | `sarah@example.com` | `Password@123` | Balance: $8,700.00, Account `FT100103` |
+| **Bank Admin** | `admin@fintrack.com` | `Admin@123` | Full Admin Console, Loan Approvals, Fraud Surveillance, Audit Logs |
+
+---
+
+## 📚 DBMS Documentation
+- Detailed ER Diagram and Normalization: [ER_DIAGRAM.md](file:///c:/Users/pawan/OneDrive/Desktop/FinTrack%20%E2%80%93%20Smart%20Digital%20Banking%20%26%20Loan%20Management%20System/ER_DIAGRAM.md)
+- Complete DBMS Concepts & ACID Analysis: [DBMS_CONCEPTS.md](file:///c:/Users/pawan/OneDrive/Desktop/FinTrack%20%E2%80%93%20Smart%20Digital%20Banking%20%26%20Loan%20Management%20System/DBMS_CONCEPTS.md)
+
