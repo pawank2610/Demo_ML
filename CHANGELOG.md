@@ -14,3 +14,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-04 15:02:40] feat(db): establish foreign key constraints and domain check rules
 
+### [2026-11-04 17:45:12] docs(erd): generate Mermaid Entity-Relationship diagram
+
