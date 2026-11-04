@@ -10,3 +10,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-04 10:11:05] feat(db): draft relational schema design for banking entities
 
+### [2026-11-04 12:35:18] feat(db): define 3NF tables for users, accounts, and transactions
+
