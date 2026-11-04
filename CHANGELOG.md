@@ -8,3 +8,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-03 18:40:10] chore: setup root gitignore and environment templates
 
+### [2026-11-04 10:11:05] feat(db): draft relational schema design for banking entities
+
