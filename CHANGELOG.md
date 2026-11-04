@@ -16,3 +16,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-04 17:45:12] docs(erd): generate Mermaid Entity-Relationship diagram
 
+### [2026-11-04 20:19:30] feat(db): add loans, audit logs, and fraud alerts tables
+
