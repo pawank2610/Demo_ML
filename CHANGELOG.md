@@ -22,3 +22,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-05 13:18:50] feat(db): implement automated database migration runner
 
+### [2026-11-05 16:55:04] perf(db): add B-tree indexes on email, account_number, and timestamps
+
