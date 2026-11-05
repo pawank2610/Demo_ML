@@ -18,3 +18,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-04 20:19:30] feat(db): add loans, audit logs, and fraud alerts tables
 
+### [2026-11-05 10:42:15] feat(db): create realistic mock dataset for customers and accounts
+
