@@ -20,3 +20,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-05 10:42:15] feat(db): create realistic mock dataset for customers and accounts
 
+### [2026-11-05 13:18:50] feat(db): implement automated database migration runner
+
