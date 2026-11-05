@@ -24,3 +24,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-05 16:55:04] perf(db): add B-tree indexes on email, account_number, and timestamps
 
+### [2026-11-05 19:30:22] feat(db): create SQL views for reporting and account summaries
+
