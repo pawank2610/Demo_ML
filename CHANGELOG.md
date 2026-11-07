@@ -36,3 +36,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-07 14:12:40] feat(auth): add customer registration controller with welcome bonus
 
+### [2026-11-07 16:30:18] feat(auth): add secure password-based customer and admin login
+
