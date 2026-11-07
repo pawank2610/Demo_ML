@@ -38,3 +38,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-07 16:30:18] feat(auth): add secure password-based customer and admin login
 
+### [2026-11-07 18:50:45] feat(auth): implement protect middleware for authenticated routes
+
