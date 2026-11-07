@@ -32,3 +32,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-07 09:30:15] feat(auth): create bcrypt password hashing utilities
 
+### [2026-11-07 11:45:20] feat(auth): implement JWT token generation and verification
+
