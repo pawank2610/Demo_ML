@@ -40,3 +40,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-07 18:50:45] feat(auth): implement protect middleware for authenticated routes
 
+### [2026-11-07 21:15:30] feat(auth): implement adminOnly role-based authorization guard
+
