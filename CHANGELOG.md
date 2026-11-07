@@ -30,3 +30,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-06 16:48:10] feat(backend): setup mysql2 connection pool with connection retry
 
+### [2026-11-07 09:30:15] feat(auth): create bcrypt password hashing utilities
+
