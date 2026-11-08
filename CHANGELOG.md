@@ -42,3 +42,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-07 21:15:30] feat(auth): implement adminOnly role-based authorization guard
 
+### [2026-11-08 15:20:11] refactor(backend): configure CORS policy and security headers
+
