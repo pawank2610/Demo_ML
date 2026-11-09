@@ -44,3 +44,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-08 15:20:11] refactor(backend): configure CORS policy and security headers
 
+### [2026-11-09 10:15:25] feat(accounts): implement get customer accounts endpoint
+
