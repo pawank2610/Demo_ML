@@ -46,3 +46,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-09 10:15:25] feat(accounts): implement get customer accounts endpoint
 
+### [2026-11-09 13:40:02] feat(accounts): add live recipient account verification lookup
+
