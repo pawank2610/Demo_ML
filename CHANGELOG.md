@@ -48,3 +48,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-09 13:40:02] feat(accounts): add live recipient account verification lookup
 
+### [2026-11-09 16:22:45] feat(accounts): add simulated deposit mechanism for demo accounts
+
