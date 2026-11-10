@@ -54,3 +54,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-10 11:35:40] feat(middleware): add centralized 404 and global error handler
 
+### [2026-11-10 17:15:19] refactor(routes): modularize backend API route registry
+
