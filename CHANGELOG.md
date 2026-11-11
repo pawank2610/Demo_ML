@@ -68,3 +68,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-11 20:10:35] feat(transactions): add rollback handling on any database error
 
+### [2026-11-11 22:05:18] docs(acid): write technical specification for ACID compliance
+
