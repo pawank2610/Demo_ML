@@ -60,3 +60,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-11 11:50:12] feat(transactions): implement row-level locking with SELECT FOR UPDATE
 
+### [2026-11-11 14:15:45] feat(transactions): enforce strict sender balance checks before debit
+
