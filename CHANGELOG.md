@@ -62,3 +62,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-11 14:15:45] feat(transactions): enforce strict sender balance checks before debit
 
+### [2026-11-11 16:30:20] feat(transactions): execute atomic debit and credit inside transaction
+
