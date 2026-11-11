@@ -58,3 +58,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-11 09:25:30] feat(transactions): draft ACID fund transfer workflow architecture
 
+### [2026-11-11 11:50:12] feat(transactions): implement row-level locking with SELECT FOR UPDATE
+
