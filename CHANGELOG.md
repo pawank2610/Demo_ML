@@ -66,3 +66,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-11 18:45:00] feat(transactions): log completed transaction record in database
 
+### [2026-11-11 20:10:35] feat(transactions): add rollback handling on any database error
+
