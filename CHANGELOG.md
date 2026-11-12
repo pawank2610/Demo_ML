@@ -78,3 +78,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-12 18:15:30] feat(history): add single transaction receipt endpoint
 
+### [2026-11-12 20:45:12] test(transactions): verify atomicity during simulated transfer errors
+
