@@ -76,3 +76,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-12 15:40:55] feat(history): add transaction search by reference and notes
 
+### [2026-11-12 18:15:30] feat(history): add single transaction receipt endpoint
+
