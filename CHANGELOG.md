@@ -72,3 +72,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-12 10:12:44] feat(history): create transaction history endpoint with pagination
 
+### [2026-11-12 13:25:10] feat(history): support filtering by transfer, deposit and withdrawal
+
