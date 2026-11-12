@@ -70,3 +70,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-11 22:05:18] docs(acid): write technical specification for ACID compliance
 
+### [2026-11-12 10:12:44] feat(history): create transaction history endpoint with pagination
+
