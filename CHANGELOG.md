@@ -74,3 +74,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-12 13:25:10] feat(history): support filtering by transfer, deposit and withdrawal
 
+### [2026-11-12 15:40:55] feat(history): add transaction search by reference and notes
+
