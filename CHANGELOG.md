@@ -84,3 +84,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-13 15:45:22] feat(loans): implement financial EMI formula calculation
 
+### [2026-11-13 19:10:40] feat(loans): calculate Debt-to-Income (DTI) ratio and risk ratings
+
