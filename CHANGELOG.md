@@ -94,3 +94,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-14 17:15:10] feat(loans): list active and historical loans for applicant
 
+### [2026-11-14 19:40:22] feat(loans): list all loan applications for bank review committee
+
