@@ -96,3 +96,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-14 19:40:22] feat(loans): list all loan applications for bank review committee
 
+### [2026-11-14 21:55:00] feat(loans): add loan status update controller for approval/rejection
+
