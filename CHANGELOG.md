@@ -86,3 +86,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-13 19:10:40] feat(loans): calculate Debt-to-Income (DTI) ratio and risk ratings
 
+### [2026-11-14 09:40:15] feat(loans): add check-eligibility endpoint with recommendations
+
