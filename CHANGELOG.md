@@ -90,3 +90,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-14 12:05:30] feat(loans): implement loan application submission controller
 
+### [2026-11-14 14:30:45] feat(loans): bind loan disbursement account to verified user
+
