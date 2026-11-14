@@ -92,3 +92,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-14 14:30:45] feat(loans): bind loan disbursement account to verified user
 
+### [2026-11-14 17:15:10] feat(loans): list active and historical loans for applicant
+
