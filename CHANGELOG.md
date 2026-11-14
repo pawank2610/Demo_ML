@@ -88,3 +88,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-14 09:40:15] feat(loans): add check-eligibility endpoint with recommendations
 
+### [2026-11-14 12:05:30] feat(loans): implement loan application submission controller
+
