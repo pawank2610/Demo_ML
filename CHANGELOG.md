@@ -100,3 +100,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-15 10:30:18] feat(loans): auto-disburse funds into balance upon loan approval
 
+### [2026-11-15 14:15:40] feat(loans): record transaction ledger entry for disbursed loans
+
