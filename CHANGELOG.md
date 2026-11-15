@@ -102,3 +102,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-15 14:15:40] feat(loans): record transaction ledger entry for disbursed loans
 
+### [2026-11-15 17:35:12] feat(audit): write audit log entry when loan status changes
+
