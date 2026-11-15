@@ -104,3 +104,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-15 17:35:12] feat(audit): write audit log entry when loan status changes
 
+### [2026-11-15 20:50:05] test(loans): verify interest, term and DTI ratio boundaries
+
