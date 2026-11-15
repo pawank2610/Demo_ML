@@ -98,3 +98,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-14 21:55:00] feat(loans): add loan status update controller for approval/rejection
 
+### [2026-11-15 10:30:18] feat(loans): auto-disburse funds into balance upon loan approval
+
