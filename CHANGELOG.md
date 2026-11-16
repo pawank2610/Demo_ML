@@ -114,3 +114,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-16 15:20:30] feat(admin): count unreviewed fraud alerts and flagged transactions
 
+### [2026-11-16 17:05:55] feat(admin): compute total banking transaction volume and count
+
