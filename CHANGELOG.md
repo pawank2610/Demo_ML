@@ -112,3 +112,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-16 13:45:10] feat(admin): aggregate active loan count and disbursement exposure
 
+### [2026-11-16 15:20:30] feat(admin): count unreviewed fraud alerts and flagged transactions
+
