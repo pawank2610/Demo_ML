@@ -118,3 +118,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-16 18:40:15] feat(admin): build customer portfolio management endpoint
 
+### [2026-11-16 20:15:40] feat(admin): implement account freeze and unfreeze toggles
+
