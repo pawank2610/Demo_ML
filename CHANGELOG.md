@@ -110,3 +110,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-16 11:30:45] feat(admin): calculate total customer deposits and bank liquidity
 
+### [2026-11-16 13:45:10] feat(admin): aggregate active loan count and disbursement exposure
+
