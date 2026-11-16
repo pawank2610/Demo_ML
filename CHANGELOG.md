@@ -120,3 +120,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-16 20:15:40] feat(admin): implement account freeze and unfreeze toggles
 
+### [2026-11-16 22:00:25] feat(admin): record security audit log on account status modification
+
