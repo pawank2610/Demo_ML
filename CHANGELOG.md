@@ -124,3 +124,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-17 11:10:45] refactor(admin): optimize customer portfolio queries with joins
 
+### [2026-11-17 16:35:20] test(admin): test freeze account restrictions during fund transfer
+
