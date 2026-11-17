@@ -122,3 +122,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-16 22:00:25] feat(admin): record security audit log on account status modification
 
+### [2026-11-17 11:10:45] refactor(admin): optimize customer portfolio queries with joins
+
