@@ -128,3 +128,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-18 10:20:30] feat(triggers): design automated fraud detection trigger logic
 
+### [2026-11-18 13:45:15] feat(triggers): implement trg_after_transaction_fraud_detection
+
