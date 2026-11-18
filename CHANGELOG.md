@@ -134,3 +134,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-18 18:35:05] feat(triggers): implement trg_after_loan_status_audit trigger
 
+### [2026-11-18 21:00:50] docs(triggers): document trigger behavior and security guarantees
+
