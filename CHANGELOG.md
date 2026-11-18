@@ -130,3 +130,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-18 13:45:15] feat(triggers): implement trg_after_transaction_fraud_detection
 
+### [2026-11-18 16:10:40] feat(triggers): flag transactions exceeding $10,000 threshold
+
