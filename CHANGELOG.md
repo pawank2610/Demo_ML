@@ -146,3 +146,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-19 18:40:45] feat(audit): record client IP address and timestamp on all logs
 
+### [2026-11-19 20:15:30] feat(mock): add resilient mock fallback for offline MySQL development
+
