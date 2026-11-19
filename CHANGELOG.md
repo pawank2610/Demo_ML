@@ -148,3 +148,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-19 20:15:30] feat(mock): add resilient mock fallback for offline MySQL development
 
+### [2026-11-19 22:30:10] test(mock): verify mock transaction rollback and balance isolation
+
