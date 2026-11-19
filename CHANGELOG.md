@@ -140,3 +140,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-19 11:45:35] feat(fraud): enrich fraud alert responses with customer context
 
+### [2026-11-19 14:10:00] feat(fraud): implement alert status resolution (reviewed/dismissed)
+
