@@ -138,3 +138,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-19 09:30:12] feat(fraud): create fraud surveillance monitoring endpoints
 
+### [2026-11-19 11:45:35] feat(fraud): enrich fraud alert responses with customer context
+
