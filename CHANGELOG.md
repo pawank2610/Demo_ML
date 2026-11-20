@@ -154,3 +154,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-20 14:30:25] feat(frontend): configure Tailwind CSS v4 and Plus Jakarta Sans font
 
+### [2026-11-20 18:45:10] feat(frontend): configure Axios API client with bearer token interceptor
+
