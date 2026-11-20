@@ -150,3 +150,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-19 22:30:10] test(mock): verify mock transaction rollback and balance isolation
 
+### [2026-11-20 10:15:40] feat(frontend): initialize React 18 and Vite build setup
+
