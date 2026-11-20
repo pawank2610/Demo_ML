@@ -152,3 +152,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-20 10:15:40] feat(frontend): initialize React 18 and Vite build setup
 
+### [2026-11-20 14:30:25] feat(frontend): configure Tailwind CSS v4 and Plus Jakarta Sans font
+
