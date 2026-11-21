@@ -164,3 +164,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 10:45:40] feat(ui): create responsive Sidebar navigation with active indicators
 
+### [2026-11-21 11:35:05] feat(ui): add ProtectedRoute component for route authorization guards
+
