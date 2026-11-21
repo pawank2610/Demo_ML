@@ -162,3 +162,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 09:55:12] feat(ui): implement instant role switching toggle between customer and admin
 
+### [2026-11-21 10:45:40] feat(ui): create responsive Sidebar navigation with active indicators
+
