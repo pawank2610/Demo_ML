@@ -180,3 +180,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 17:25:45] feat(ui): add high-value transfer warning banner for threshold awareness
 
+### [2026-11-21 18:15:20] feat(ui): build ReceiptModal component with transaction reference
+
