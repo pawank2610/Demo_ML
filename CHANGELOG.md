@@ -190,3 +190,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 21:35:40] feat(ui): add loan application submission workflow from calculator
 
+### [2026-11-21 22:25:10] feat(ui): list customer submitted loan applications with status tags
+
