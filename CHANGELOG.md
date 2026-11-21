@@ -158,3 +158,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 08:15:10] feat(ui): design sleek fintech dark theme and glassmorphic panels
 
+### [2026-11-21 09:05:30] feat(ui): build Navbar with brand logo, user pill, and role display
+
