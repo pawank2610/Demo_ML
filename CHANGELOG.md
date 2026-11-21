@@ -160,3 +160,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 09:05:30] feat(ui): build Navbar with brand logo, user pill, and role display
 
+### [2026-11-21 09:55:12] feat(ui): implement instant role switching toggle between customer and admin
+
