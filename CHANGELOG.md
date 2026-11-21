@@ -184,3 +184,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 19:05:00] feat(ui): build searchable transaction history table with type filtering
 
+### [2026-11-21 19:55:30] feat(ui): create interactive loan calculator with live range sliders
+
