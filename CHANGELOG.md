@@ -174,3 +174,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 14:55:00] feat(ui): build recent transactions feed with deposit/debit coloring
 
+### [2026-11-21 15:45:30] feat(ui): create transfer funds form with live account balance display
+
