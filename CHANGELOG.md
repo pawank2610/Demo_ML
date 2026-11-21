@@ -168,3 +168,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 12:25:50] feat(ui): build virtual debit card view with copyable account number
 
+### [2026-11-21 13:15:15] feat(ui): implement customer dashboard balance overview and metrics
+
