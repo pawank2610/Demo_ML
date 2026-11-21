@@ -170,3 +170,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 13:15:15] feat(ui): implement customer dashboard balance overview and metrics
 
+### [2026-11-21 14:05:40] feat(ui): add quick actions for transfers, loans, and simulated deposits
+
