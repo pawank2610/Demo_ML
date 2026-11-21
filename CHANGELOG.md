@@ -178,3 +178,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 16:35:10] feat(ui): add debounced recipient lookup displaying verified name
 
+### [2026-11-21 17:25:45] feat(ui): add high-value transfer warning banner for threshold awareness
+
