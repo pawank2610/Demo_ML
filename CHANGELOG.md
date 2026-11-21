@@ -186,3 +186,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 19:55:30] feat(ui): create interactive loan calculator with live range sliders
 
+### [2026-11-21 20:45:15] feat(ui): display real-time EMI, total repayment, and DTI risk badge
+
