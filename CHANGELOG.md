@@ -182,3 +182,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 18:15:20] feat(ui): build ReceiptModal component with transaction reference
 
+### [2026-11-21 19:05:00] feat(ui): build searchable transaction history table with type filtering
+
