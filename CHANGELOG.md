@@ -176,3 +176,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-21 15:45:30] feat(ui): create transfer funds form with live account balance display
 
+### [2026-11-21 16:35:10] feat(ui): add debounced recipient lookup displaying verified name
+
