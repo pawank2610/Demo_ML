@@ -198,3 +198,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-22 16:30:10] feat(admin-ui): build loan approval queue with review decision modal
 
+### [2026-11-22 19:15:35] feat(admin-ui): create fraud surveillance panel and security audit log viewer
+
