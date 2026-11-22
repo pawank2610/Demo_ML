@@ -196,3 +196,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-22 13:45:40] feat(admin-ui): create customer management table with freeze controls
 
+### [2026-11-22 16:30:10] feat(admin-ui): build loan approval queue with review decision modal
+
