@@ -194,3 +194,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-22 10:20:15] feat(admin-ui): build executive banking dashboard with KPI stat cards
 
+### [2026-11-22 13:45:40] feat(admin-ui): create customer management table with freeze controls
+
