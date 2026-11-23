@@ -200,3 +200,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-22 19:15:35] feat(admin-ui): create fraud surveillance panel and security audit log viewer
 
+### [2026-11-23 11:15:20] style(ui): refine responsive layouts for mobile and tablet devices
+
