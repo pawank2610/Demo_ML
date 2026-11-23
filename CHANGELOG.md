@@ -204,3 +204,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-23 15:40:45] style(ui): optimize scrollbars, badge contrast, and Lucide icons
 
+### [2026-11-23 19:05:10] perf(frontend): optimize Vite production bundle size and code splitting
+
