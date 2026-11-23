@@ -202,3 +202,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-23 11:15:20] style(ui): refine responsive layouts for mobile and tablet devices
 
+### [2026-11-23 15:40:45] style(ui): optimize scrollbars, badge contrast, and Lucide icons
+
