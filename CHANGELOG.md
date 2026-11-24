@@ -208,3 +208,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-24 12:30:15] test(e2e): test end-to-end peer fund transfers and receipt popups
 
+### [2026-11-24 17:50:40] test(e2e): test insufficient balance validation and error rollbacks
+
