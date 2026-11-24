@@ -206,3 +206,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-23 19:05:10] perf(frontend): optimize Vite production bundle size and code splitting
 
+### [2026-11-24 12:30:15] test(e2e): test end-to-end peer fund transfers and receipt popups
+
