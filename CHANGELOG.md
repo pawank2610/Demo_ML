@@ -214,3 +214,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-25 13:40:15] feat(loans): execute automated fund disbursement upon admin approval
 
+### [2026-11-25 16:20:45] feat(loans): add queue refresh button and visual approval notifications
+
