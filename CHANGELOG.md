@@ -210,3 +210,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-24 17:50:40] test(e2e): test insufficient balance validation and error rollbacks
 
+### [2026-11-25 10:15:30] fix(loans): synchronize loan approval queue between customer and admin
+
