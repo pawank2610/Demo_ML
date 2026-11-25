@@ -216,3 +216,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-25 16:20:45] feat(loans): add queue refresh button and visual approval notifications
 
+### [2026-11-25 18:55:10] refactor(db): streamline mock database loan query filtering
+
