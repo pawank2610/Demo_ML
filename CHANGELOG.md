@@ -224,3 +224,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-26 12:15:40] feat(auth): implement send-otp endpoint with 5-minute expiry token
 
+### [2026-11-26 14:45:10] feat(auth): implement verify-otp endpoint for secure login and registration
+
