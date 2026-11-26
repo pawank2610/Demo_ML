@@ -226,3 +226,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-26 14:45:10] feat(auth): implement verify-otp endpoint for secure login and registration
 
+### [2026-11-26 17:20:35] feat(ui): add 6-digit OTP verification interface with auto-fill helper
+
