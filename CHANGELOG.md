@@ -230,3 +230,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-26 19:50:00] feat(ui): integrate 2FA verification into account opening registration
 
+### [2026-11-26 21:15:20] docs: finalize comprehensive README, ER diagram, and DBMS concepts guide
+
