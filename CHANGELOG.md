@@ -222,3 +222,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-26 09:30:15] feat(auth): design Two-Factor OTP authentication privacy workflow
 
+### [2026-11-26 12:15:40] feat(auth): implement send-otp endpoint with 5-minute expiry token
+
