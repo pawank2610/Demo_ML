@@ -228,3 +228,5 @@ All notable changes and milestones documented in chronological order.
 
 ### [2026-11-26 17:20:35] feat(ui): add 6-digit OTP verification interface with auto-fill helper
 
+### [2026-11-26 19:50:00] feat(ui): integrate 2FA verification into account opening registration
+
